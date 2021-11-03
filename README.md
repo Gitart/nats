@@ -1,2 +1,2 @@
-# nats
+# NATS
 NATS 
